@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linear Algebra/Matrix.md",
-            "mode": "preview"
+            "file": "Spanish/Sistemas Operativos/Sistema Operativo (OS).md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/Matrix.md",
+                "file": "Spanish/Sistemas Operativos/Sistema Operativo (OS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +86,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Linear Algebra/Matrix.md",
-    "Untitled.md",
     "Operating Systems/Operating System (OS).md",
+    "Linear Algebra/Matrix.md",
+    "Linear Algebra/Exercises/LA-E1.md",
+    "Untitled.md",
     "Testing Note.md"
   ]
 }
