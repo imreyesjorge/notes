@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b6e4bfc72c595ca5",
+        "id": "d919e312d76cedcc",
         "type": "leaf",
         "active": true,
         "state": {
@@ -87,12 +87,14 @@
   },
   "lastOpenFiles": [
     "Spanish/Algebra Lineal/Matrices.md",
-    "Spanish/Algebra Lineal/Ejercicios/AL-E1.md",
-    "Pasted image 20210301220648.png",
-    "Operating Systems/Operating System (OS).md",
-    "Linear Algebra/Matrix.md",
-    "Linear Algebra/Exercises/LA-E1.md",
+    "Spanish/Algebra Lineal/Igualdad de Matrices.md",
+    "Spanish/Algebra Lineal/Matrices Triangulares.md",
+    "Spanish/Algebra Lineal/Matriz Identidad.md",
+    "Spanish/Algebra Lineal/Multiplicación y División de Matrices.md",
+    "Spanish/Algebra Lineal/Suma y Resta de Matrices.md",
+    "Spanish/Algebra Lineal/Suma de Matrices.md",
     "Untitled.md",
-    "Testing Note.md"
+    "Spanish/Algebra Lineal/Ejercicios/AL-E1.md",
+    "Pasted image 20210301220648.png"
   ]
 }
