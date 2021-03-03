@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d919e312d76cedcc",
+        "id": "316c5094778951db",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Spanish/Algebra Lineal/Matrices.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spanish/Algebra Lineal/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +82,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Spanish/Algebra Lineal/Matrices.md",
-    "Spanish/Algebra Lineal/Igualdad de Matrices.md",
     "Spanish/Algebra Lineal/Matrices Triangulares.md",
+    "Spanish/Algebra Lineal/Matrices.md",
+    "Spanish/Algebra Lineal/Matriz Diagonal.md",
     "Spanish/Algebra Lineal/Matriz Identidad.md",
-    "Spanish/Algebra Lineal/Multiplicación y División de Matrices.md",
     "Spanish/Algebra Lineal/Suma y Resta de Matrices.md",
-    "Spanish/Algebra Lineal/Suma de Matrices.md",
+    "Spanish/Algebra Lineal/Multiplicación y División de Matrices.md",
+    "Spanish/Sistemas Operativos/Sistema Operativo (OS).md",
+    "Spanish/Algebra Lineal/Igualdad de Matrices.md",
     "Untitled.md",
-    "Spanish/Algebra Lineal/Ejercicios/AL-E1.md",
-    "Pasted image 20210301220648.png"
+    "Spanish/Algebra Lineal/Suma de Matrices.md"
   ]
 }
