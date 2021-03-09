@@ -15,3 +15,10 @@ La diferencia entre estos dos se explica por sí misma, la monotarea **solo pued
 
 ### Monousuario y multiusuario
 Estos dos también se explican por sí mismos, el monousuario **no tiene la capacidad de distinguir entre usuarios**, mientras que el multiusuario **puede identificar procesos y recursos que pertenecen a uno o más usuarios**.
+
+# Procesos
+Un **Sistema Operativo** es un conjunto de módulos que generan un entorno eficiente para la ejecución de programas.
+
+> Los términos **trabajo** y **proceso** se usan de manera intercambiable 
+
+El **proceso** es un programa en ejecución; la ejecución de un proceso debe avanzar de manera secuencial. Un proceso incluye: *contador de programa, pila, secciones de código* y *datos*.

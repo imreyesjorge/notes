@@ -13,3 +13,5 @@ $$
 0 & 0 & 0 & 1
 \end{bmatrix}
 $$
+
+> Cabe aclarar que toda matriz identidad es una [[Matriz Diagonal|matriz diagonal]]

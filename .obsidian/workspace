@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Spanish/Algebra Lineal/Matrices/Operaciones/Operaciones Elementales.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spanish/Algebra Lineal/Matrices/Operaciones/Operaciones Elementales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Spanish/Algebra Lineal/Matrices Triangulares.md",
-    "Spanish/Algebra Lineal/Matrices.md",
-    "Spanish/Algebra Lineal/Matriz Diagonal.md",
+    "Spanish/Algebra Lineal/Matrices/Operaciones/Untitled.md",
+    "Spanish/Algebra Lineal/Matrices/Matrices.md",
+    "Spanish/Algebra Lineal/Matrices/Tipos/Untitled.md",
+    "Spanish/Algebra Lineal/Matrices/Igualdad de Matrices.md",
+    "Spanish/Algebra Lineal/Matrices/Traza de la Matriz.md",
+    "Spanish/Algebra Lineal/Matrices/Untitled.md",
+    "Spanish/Algebra Lineal/Untitled.md",
+    "Spanish/Algebra Lineal/Transpuesta de una matriz.md",
     "Spanish/Algebra Lineal/Matriz Identidad.md",
-    "Spanish/Algebra Lineal/Suma y Resta de Matrices.md",
-    "Spanish/Algebra Lineal/Multiplicación y División de Matrices.md",
-    "Spanish/Sistemas Operativos/Sistema Operativo (OS).md",
-    "Spanish/Algebra Lineal/Igualdad de Matrices.md",
-    "Untitled.md",
-    "Spanish/Algebra Lineal/Suma de Matrices.md"
+    "Spanish/Algebra Lineal/Matriz Diagonal.md"
   ]
 }

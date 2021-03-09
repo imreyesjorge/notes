@@ -1,4 +1,4 @@
-1. Construya una matriz $A$ de $2 x 3$ tal que la componente $(i,j)$ sea $2i + j$.
+1. Construya una matriz $A$ de $2 \times 3$ tal que la componente $(i,j)$ sea $2i + j$.
 
 $$
 \begin{bmatrix}
@@ -7,7 +7,7 @@ $$
 \end{bmatrix}
 $$
 
-2. Construya la matriz de $3 x 3$ cuya entrada $(r,s)$ es $0$ si $r \not s$ y $1$ si $r = s$.
+2. Construya la matriz de $3 \times 3$ cuya entrada $(r,s)$ es $0$ si $r \not s$ y $1$ si $r = s$.
 
 $$
 \begin{bmatrix}
@@ -17,7 +17,7 @@ $$
 \end{bmatrix}
 $$
 
-3. Construya una matriz $D$ de $3 x 3$ tal que $[D]_{rs} = 0$ si $r \not s$.
+3. Construya una matriz $D$ de $3 \times 3$ tal que $[D]_{rs} = 0$ si $r \not s$.
 
 $$
 \begin{bmatrix}
@@ -27,7 +27,7 @@ x & 0 & 0 \\
 \end{bmatrix}
 $$
 
-4. Construya una matriz $U$ de $4 x 4$ que satisfaga la condición $[U]_{ij} = 0$ cuando $i > j$.
+4. Construya una matriz $U$ de $4 \times 4$ que satisfaga la condición $[U]_{ij} = 0$ cuando $i > j$.
 
 $$
 \begin{bmatrix}
@@ -48,7 +48,7 @@ $$
 $$
 
 6. Considere las matrices $A = \begin{bmatrix} 3 & 1 \\ 7 & 4\end{bmatrix}$ y $B = \begin{bmatrix} 2 & -3 & 1 \\ 4 & 2 & -2 \end{bmatrix}$.
-	1. Sea $C$ la matriz de $2x3$ definida por $[C]_{ij} = \Sigma^2_{k=1}[A]_{ik}[B]_{kj}$.
+	1. Sea $C$ la matriz de $2 \times 3$ definida por $[C]_{ij} = \Sigma^2_{k=1}[A]_{ik}[B]_{kj}$.
 
 $$
 \begin{bmatrix}
