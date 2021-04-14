@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "316c5094778951db",
+        "id": "847c7f204e021f6a",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spanish/Algebra Lineal/Matrices/Propiedades/Rango de una Matriz.md",
+            "file": "Spanish/Algebra Lineal/Matrices/Operaciones/Traza de la Matriz.md",
             "mode": "preview"
           }
         }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spanish/Algebra Lineal/Matrices/Propiedades/Rango de una Matriz.md",
+                "file": "Spanish/Algebra Lineal/Matrices/Operaciones/Traza de la Matriz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "847c7f204e021f6a",
   "lastOpenFiles": [
-    "Spanish/Algebra Lineal/Matrices/Propiedades/Untitled.md",
-    "Spanish/Algebra Lineal/Matrices/Operaciones/Operaciones Elementales.md",
-    "Spanish/Algebra Lineal/Matrices/Tipos/Untitled.md",
-    "Spanish/Algebra Lineal/Matrices/Tipos/Matriz Escalonada por Renglones.md",
+    "Spanish/Algebra Lineal/Matrices/Operaciones/Traza de la Matriz.md",
     "Spanish/Algebra Lineal/Matrices/Matrices.md",
-    "Spanish/Algebra Lineal/Matrices/Operaciones/Untitled.md",
-    "Spanish/Algebra Lineal/Matrices/Igualdad de Matrices.md",
-    "Spanish/Algebra Lineal/Matrices/Traza de la Matriz.md",
-    "Spanish/Algebra Lineal/Matrices/Untitled.md",
-    "Spanish/Algebra Lineal/Untitled.md"
+    "Spanish/Algebra Lineal/Matrices/Operaciones/Transpuesta de una matriz.md",
+    "Spanish/Algebra Lineal/Matrices/Operaciones/Multiplicación y División de Matrices.md",
+    "Spanish/Algebra Lineal/Matrices/Tipos/Matriz Escalonada por Renglones.md",
+    "Spanish/Algebra Lineal/Matrices/Tipos/Matriz Nilpotente e Idempotente.md",
+    "Spanish/Algebra Lineal/Matrices/Tipos/Matriz Identidad.md",
+    "Spanish/Algebra Lineal/Matrices/Tipos/Matriz Diagonal.md",
+    "Spanish/Algebra Lineal/Matrices/Tipos/Matriz Antisimétrica.md",
+    "Spanish/Algebra Lineal/Matrices/Tipos/Matriz Simétrica.md"
   ]
 }

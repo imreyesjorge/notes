@@ -1,4 +1,4 @@
-# Multiplicación y División de Matrices
+# Multiplicación
 La multiplicación y división de matrices es una operación un tanto más compleja a comparación de una simple suma/resta.
 
 ## Multiplicación (Producto)
@@ -22,5 +22,3 @@ $$
 - $c(AB) = (cA)B = A(cB)$
 - $A0 = 0, 0A= 0$
 - Si $A \in K^{n \times n}$ y $r, s \in \Bbb{Z} \ge 0$ se tiene: $A^r*A^s =A^{r+s}, (A^r)^s = A^{rs}$ 
-
-## División

@@ -20,6 +20,6 @@ Sea $K$ un campo arbitrario y sean $m,n$ enteros positivos. Una *matriz* $A$ de 
 Las matrices pueden tener varios tipos, por ejemplo las [[Matrices Triangulares|triangulares]], [[Matriz Simétrica|simétricas]], [[Matriz Antisimétrica|antisimétricas]], [[Matriz Identidad|identidad]], [[Matriz Diagonal|diagonales]], [[Matriz Nilpotente e Idempotente|nilpotente]], [[Matriz Escalonada por Renglones|escalonada por renglones]] y la [[Matriz Nilpotente e Idempotente|idempotente]].
 
 ## Operaciones de matrices
-Las matrices, como cualquier otra rama de las matemǻticas, están sujetas a operaciones. Podemos aprecias la [[Suma y Resta de Matrices|suma]], [[Suma y Resta de Matrices|resta]], [[Multiplicación y División de Matrices|multiplicación]] y [[Multiplicación y División de Matrices|división]].
+Las matrices, como cualquier otra rama de las matemǻticas, están sujetas a operaciones. Podemos aprecias la [[Suma y Resta de Matrices|suma]], [[Suma y Resta de Matrices|resta]] y [[Multiplicación de Matrices|multiplicación]] 
 
 Podemos observar operaciones un poco más complejas, tales como: la [[Transpuesta de una matriz|transpuesta]], la [[Traza de la Matriz|traza]]
