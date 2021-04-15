@@ -17,7 +17,7 @@ Sea $K$ un campo arbitrario y sean $m,n$ enteros positivos. Una *matriz* $A$ de 
 
 > La colección de todas las matrices de $m \times n$ se denota por $K^{m \times n}$. Otras notaciones para el mismo fin son $M_{m \times n}(K)$ o $\text{Mat}_{m \times n}(K)$.
 
-Las matrices pueden tener varios tipos, por ejemplo las [[Matriz Nula (Matriz Cero)|nulas]], [[Matriz Cuadrada|cuadradas]], [[Matrices Triangulares|triangulares]], [[Matriz Simétrica|simétricas]], [[Matriz Antisimétrica|antisimétricas]], [[Matriz Identidad|identidad]], [[Matriz Diagonal|diagonales]], [[Matriz Nilpotente e Idempotente|nilpotente]], [[Matriz Escalonada por Renglones|escalonada por renglones]] y la [[Matriz Nilpotente e Idempotente|idempotente]].
+Las matrices pueden tener varios tipos, por ejemplo las [[Matriz Nula (Matriz Cero)|nulas]], [[Matriz Cuadrada|cuadradas]], [[Matrices Triangulares|triangulares]], [[Matriz Simétrica|simétricas]], [[Matriz Antisimétrica|antisimétricas]], [[Matriz Inversa|invertibles]], [[Matriz Identidad|identidad]], [[Matriz Diagonal|diagonales]], [[Matriz Nilpotente e Idempotente|nilpotente]], [[Matriz Escalonada por Renglones|escalonada por renglones]] y la [[Matriz Nilpotente e Idempotente|idempotente]].
 
 ## Operaciones de matrices
 Las matrices, como cualquier otra rama de las matemǻticas, están sujetas a operaciones. Podemos aprecias la [[Suma y Resta de Matrices|suma]], [[Suma y Resta de Matrices|resta]] y [[Multiplicación de Matrices|multiplicación]] 

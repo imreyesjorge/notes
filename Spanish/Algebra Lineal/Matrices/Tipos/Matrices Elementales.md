@@ -1,0 +1,2 @@
+# Matrices Elementales
+Una **matriz elemental de Tipo I, II, o II** es una matriz que se obtiene al aplicar a la matriz identidad $I_n$ exactamente una operación elemental de Tipo I, II, o III, respectivamente
