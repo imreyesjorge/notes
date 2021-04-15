@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spanish/Algebra Lineal/Matrices/Operaciones/Método de eliminación de Gauss y Gauss-Jordan.md",
-            "mode": "source"
+            "file": "Spanish/Algebra Lineal/Matrices/Vectores.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spanish/Algebra Lineal/Matrices/Operaciones/Método de eliminación de Gauss y Gauss-Jordan.md",
+                "file": "Spanish/Algebra Lineal/Matrices/Vectores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "847c7f204e021f6a",
   "lastOpenFiles": [
+    "Spanish/Algebra Lineal/Matrices/Vectores.md",
+    "Spanish/Algebra Lineal/Matrices/Propiedades/Rango de una Matriz.md",
+    "Spanish/Algebra Lineal/Matrices/Operaciones/Método de eliminación de Gauss y Gauss-Jordan.md",
     "Spanish/Algebra Lineal/Matrices/Operaciones/Untitled.md",
     "Spanish/Algebra Lineal/Matrices/Tipos/Untitled.md",
     "Spanish/Algebra Lineal/Matrices/Tipos/Matriz Inversa.md",
     "Spanish/Algebra Lineal/Matrices/Matrices.md",
     "Spanish/Algebra Lineal/Matrices/Propiedades/Igualdad de Matrices.md",
     "Spanish/Algebra Lineal/Matrices/Operaciones/Multiplicación de Matrices.md",
-    "Spanish/Algebra Lineal/Matrices/Propiedades/Rango de una Matriz.md",
-    "Spanish/Algebra Lineal/Matrices/Untitled.md",
-    "Spanish/Algebra Lineal/Matrices/Operaciones/Suma y Resta de Matrices.md",
-    "Spanish/Algebra Lineal/Matrices/Tipos/Matriz Nula (Matriz Cero).md"
+    "Spanish/Algebra Lineal/Matrices/Untitled.md"
   ]
 }
