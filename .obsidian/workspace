@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "847c7f204e021f6a",
+        "id": "cef8b32b4a22ad8f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spanish/Algebra Lineal/Matrices/Vectores.md",
+            "file": "Spanish/Algebra Lineal/Matrices/Operaciones/La Norma Euclidiana de un Vector.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spanish/Algebra Lineal/Matrices/Vectores.md",
+                "file": "Spanish/Algebra Lineal/Matrices/Operaciones/La Norma Euclidiana de un Vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "847c7f204e021f6a",
+  "active": "cef8b32b4a22ad8f",
   "lastOpenFiles": [
-    "Spanish/Algebra Lineal/Matrices/Vectores.md",
-    "Spanish/Algebra Lineal/Matrices/Propiedades/Rango de una Matriz.md",
-    "Spanish/Algebra Lineal/Matrices/Operaciones/Método de eliminación de Gauss y Gauss-Jordan.md",
-    "Spanish/Algebra Lineal/Matrices/Operaciones/Untitled.md",
+    "Spanish/Algebra Lineal/Matrices/Operaciones/La Norma Euclidiana de un Vector.md",
+    "Spanish/Algebra Lineal/Matrices/Propiedades/Ángulo entre dos vectores.md",
+    "Spanish/Algebra Lineal/Matrices/Operaciones/Producto punto, interior o escalar.md",
+    "Spanish/Algebra Lineal/Matrices/Propiedades/Untitled.md",
     "Spanish/Algebra Lineal/Matrices/Tipos/Untitled.md",
-    "Spanish/Algebra Lineal/Matrices/Tipos/Matriz Inversa.md",
+    "Spanish/Algebra Lineal/Matrices/Vectores.md",
+    "Spanish/Algebra Lineal/Matrices/Operaciones/Untitled.md",
     "Spanish/Algebra Lineal/Matrices/Matrices.md",
-    "Spanish/Algebra Lineal/Matrices/Propiedades/Igualdad de Matrices.md",
-    "Spanish/Algebra Lineal/Matrices/Operaciones/Multiplicación de Matrices.md",
-    "Spanish/Algebra Lineal/Matrices/Untitled.md"
+    "Spanish/Algebra Lineal/Matrices/Propiedades/Rango de una Matriz.md",
+    "Spanish/Algebra Lineal/Matrices/Operaciones/Método de eliminación de Gauss y Gauss-Jordan.md"
   ]
 }

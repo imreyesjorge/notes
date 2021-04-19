@@ -22,3 +22,6 @@ $$
 
 > Por comodidad de lectura, podemos usar los paréntesis para denotar un véctor columna en forma de renglón. Ej. $(x_1, x_2, \dots, x_n)$
 
+Cabe destacar que al igual que las matrices, los vectores igual cuentan con sus [[Propiedades de la suma y multiplicación de vectores|propiedades]].
+
+Entra las operaciones que se pueden realizar entre vectores, podemos notar: [[Producto punto, interior o escalar|el producto punto]], [[La Norma Euclidiana de un Vector|la norma]]
