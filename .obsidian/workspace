@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spanish/Algebra Lineal/Matrices/Operaciones/La Norma Euclidiana de un Vector.md",
+            "file": "Spanish/Algebra Lineal/Matrices/Tipos/Vector Unitario.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spanish/Algebra Lineal/Matrices/Operaciones/La Norma Euclidiana de un Vector.md",
+                "file": "Spanish/Algebra Lineal/Matrices/Tipos/Vector Unitario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "cef8b32b4a22ad8f",
   "lastOpenFiles": [
+    "Spanish/Algebra Lineal/Matrices/Tipos/Vector Unitario.md",
     "Spanish/Algebra Lineal/Matrices/Operaciones/La Norma Euclidiana de un Vector.md",
+    "Spanish/Algebra Lineal/Matrices/Vectores.md",
+    "Spanish/Algebra Lineal/Matrices/Tipos/Vectores Ortogonales.md",
+    "Spanish/Algebra Lineal/Matrices/Propiedades/Untitled.md",
+    "Spanish/Algebra Lineal/Matrices/Sistema de Ecuaciones Lineales.md",
+    "Spanish/Algebra Lineal/Matrices/Untitled.md",
     "Spanish/Algebra Lineal/Matrices/Propiedades/Ángulo entre dos vectores.md",
     "Spanish/Algebra Lineal/Matrices/Operaciones/Producto punto, interior o escalar.md",
-    "Spanish/Algebra Lineal/Matrices/Propiedades/Untitled.md",
-    "Spanish/Algebra Lineal/Matrices/Tipos/Untitled.md",
-    "Spanish/Algebra Lineal/Matrices/Vectores.md",
-    "Spanish/Algebra Lineal/Matrices/Operaciones/Untitled.md",
-    "Spanish/Algebra Lineal/Matrices/Matrices.md",
-    "Spanish/Algebra Lineal/Matrices/Propiedades/Rango de una Matriz.md",
-    "Spanish/Algebra Lineal/Matrices/Operaciones/Método de eliminación de Gauss y Gauss-Jordan.md"
+    "Spanish/Algebra Lineal/Matrices/Tipos/Untitled.md"
   ]
 }
